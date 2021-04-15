@@ -1,0 +1,9 @@
+{
+    "name":"Angel Huang",
+    "age":18,
+    "gender":"female",
+    "friends":[
+        "Jacky Chen",
+        "Larry Mai"
+    ]
+}
